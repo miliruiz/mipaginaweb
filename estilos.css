@@ -31,7 +31,6 @@ header {
     background: #1f4037;
     /* fallback for old browsers */
     background: linear-gradient(to right, hsla(152, 77%, 77%, 0.61), hsla(164, 35%, 19%, 0.616)), url(img4.jpg);
-    );
     /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, hsla(152, 77%, 77%, 0.61), hsla(164, 35%, 19%, 0.616)), url(img4.jpg);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */

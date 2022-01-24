@@ -301,6 +301,7 @@ footer{
 @media screen and (max-width: 900px){
      header{
          background-position: center;
+         padding: 100%;
      }
      .contenedor-sobre-nostros{
          flex-direction: column;
